@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .scoreboard {
+    border: 2px solid #000;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    display: inline-block;
+  }
+  
+  .team {
+    margin-bottom: 10px;
+  }
+  
+  .team-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .team-score {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .game-time {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  #current-time {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #quarter {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
